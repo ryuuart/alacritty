@@ -1,0 +1,15 @@
+[window]
+blur = true
+decorations = "Buttonless"
+opacity = 0.9
+
+dynamic_padding = true
+
+[font]
+size = 12.0
+normal.family = "CaskaydiaMono Nerd Font Mono"
+normal.style = "Regular"
+
+[cursor]
+style.shape = "Block"
+style.blinking = "On"
